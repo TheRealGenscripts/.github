@@ -2,6 +2,8 @@
 
 🙋‍♀️ A place for the #Genscripts Dev team to place their works.
 
+📫 How to get in touch: The best way is to catch us on IRC. Channel: #Genscripts on Server: heliopolis.genscripts.io. If discord is more your thing check us out [there](https://discord.gg/btn2x56G4J). 
+
 
 <!--
 
